@@ -1,0 +1,22 @@
+{
+  "name": "vercel-cljs",
+  "version": "0.0.1",
+  "description": "A Vercel runtime to create CLJS Serverless Functions",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagooak/vercel-cljs.git"
+  },
+  "author": "Thiago Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagooak/vercel-cljs/issues"
+  },
+  "homepage": "https://github.com/thiagooak/vercel-cljs#readme",
+  "dependencies": {
+    "@vercel/build-utils": "^5.5.5"
+  }
+}

@@ -1,5 +1,6 @@
 {
-  "name": "@thiagooak/vercel-cljs",
+  "name": "vercel-cljs-test",
+  "type": "module",
   "version": "0.0.1",
   "description": "A Vercel runtime to create CLJS Serverless Functions",
   "main": "src/index.ts",

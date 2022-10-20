@@ -1,7 +1,7 @@
 {
   "name": "vercel-cljs-test2",
   "type": "module",
-  "version": "0.0.1-dev1",
+  "version": "0.0.1-dev2",
   "description": "A Vercel runtime to create CLJS Serverless Functions",
   "main": "src/index.ts",
   "scripts": {
